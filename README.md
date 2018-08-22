@@ -13,10 +13,10 @@ If the Process is running (usually if you closed gitbash before stopping the app
 This is a simple web application that fetchs JSON data supplied by https://jsonplaceholder.typicode.com/.
 1. Eastridge logo - click on the logo to go to Eastridge Workforce Solutions: https://www.eastridge.com/
 2. My name - click on my name to see my github
-3. buttons
-    a. Home will take you back to the landing page
-    b. Users will supply a list of users from https://jsonplaceholder.typicode.com/users.  Click on a name to see more about them
-    c. Posts will list all posts made on https://jsonplaceholder.typicode.com/posts  click on the post title to see the body of the post and comments (from https://jsonplaceholder.typicode.com/comments) associated with that post.  The bottom button "back to top" will take you back to the top top of the list
+3. Buttons 
+    - **Home** will take you back to the landing page
+    - **Users** will supply a list of users from https://jsonplaceholder.typicode.com/users.  Click on a name to see more about them
+    - **Posts** will list all posts made on https://jsonplaceholder.typicode.com/posts  click on the post title to see the body of the post and comments (from https://jsonplaceholder.typicode.com/comments) associated with that post.  The bottom button "back to top" will take you back to the top top of the list
 
 To Employ Rory
 1. Contact Thomas Liolios from Eastridge Workforce management
